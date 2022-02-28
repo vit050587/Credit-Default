@@ -1,3 +1,4 @@
 # Credit-Default
 Ваша задача этом соревновании - предсказать факт невыполнения кредитных обязательств в датасете test.csv. Вам будут даны два датасета: train.csv (содержит признаки и факт невыполнения кредитных обязательств) и test.csv (только признаки).
-Invite link for this competition: https://www.kaggle.com/t/629f0f9238324b9d819d26838be92544
+
+*Invite link for this competition: https://www.kaggle.com/t/629f0f9238324b9d819d26838be92544*
